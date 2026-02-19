@@ -1,0 +1,1 @@
+progetto universitario di Sistemi Operativi AY 2024/2025 che chiede di realizzare un server che permetta multiple computazioni di impronte SHA-256 e un client che invii l’informazione di file di input al server e riceva l’impronta risultante appena computata.
